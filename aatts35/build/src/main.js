@@ -1,0 +1,17 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+console.log("*Reto 1*");
+const app_1 = require("./ej1/app");
+(0, app_1.ej1)();
+console.log("*Reto 2*");
+const app_2 = require("./ej2/app");
+(0, app_2.ej2)();
+console.log("*Reto 3*");
+const app_3 = require("./ej3/app");
+(0, app_3.ej3)();
+console.log("*Reto 4*");
+const app_4 = require("./ej4/app");
+(0, app_4.ej4)();
+console.log("*Reto 5*");
+const app_5 = require("./ej5/app");
+(0, app_5.ej5)();
